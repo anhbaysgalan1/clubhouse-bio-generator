@@ -40,9 +40,9 @@ export default function Home() {
                       2. Bio үүсгэгчийг ашиглан өөрийн Bio-г үүсгэх
                     </li>
                     <li className="mt-4">
-                      3. Сайтынхаа линкыг утсан дээрээ нээх
+                      3.  Bio гоо хуулж аван Clubhouse даа оруулна
                     </li>
-                    <li className="mt-4">4. Bio гоо хуулж аван Clubhouse даа оруулна</li>
+                    {/* <li className="mt-4">4. Bio гоо хуулж аван Clubhouse даа оруулна</li> */}
                   </ul>
                 </div>
               </div>
@@ -74,7 +74,7 @@ export default function Home() {
           </div>
         </main>
         <footer className="h-8 mt-4 mb-4 text-white">
-          <div>Хайраар бүтээв ❤️ <a href="https://www.instagram.com/ankhbaysgalan/">@ankhbayasgalan</a></div>
+          <div>Хайраар бүтээв ❤️ <a href="https://www.instagram.com/ankhbaysgalan/">@ankhbaysgalan</a></div>
         </footer>
       </div>
     </div>

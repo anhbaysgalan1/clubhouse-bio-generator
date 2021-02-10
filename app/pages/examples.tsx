@@ -134,7 +134,7 @@ Start-up Geek.
           </div>
         </main>
         <footer className="h-8 mt-4 mb-4 text-white">
-          <div>Хайраар бүтээв ❤️ <a href="https://www.instagram.com/ankhbaysgalan/">@ankhbayasgalan</a></div>
+          <div>Хайраар бүтээв ❤️ <a href="https://www.instagram.com/ankhbaysgalan/">@ankhbaysgalan</a></div>
         </footer>
       </div>
     </div>
